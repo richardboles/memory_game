@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+header {
+  background-image: url("images/carddeck2.png");
+  height: 230px;
+  width: 100%;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+ h2 {
+  color: red;
+ }
+
+p {
+  color: white;
+}
+
+.cards {
+  background-image: url("images/carddeck3.jpeg");
+}
+
+footer {
+  background-image: url("images/carddeckfooter.jpg");
+  background-color: red;
+  height: 200px;
+  width: 100%;
+}
