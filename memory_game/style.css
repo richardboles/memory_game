@@ -26,6 +26,15 @@ p {
   background-image: url("images/carddeck3.jpeg");
 }
 
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+
 footer {
   background-image: url("images/carddeckfooter.jpg");
   background-color: red;
