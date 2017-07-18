@@ -24,6 +24,12 @@ p {
 
 .cards {
   background-image: url("images/carddeck3.jpeg");
+  width: 100%;
+  height: 200px;
+}
+
+.tutorial {
+
 }
 
 .clearfix:after {

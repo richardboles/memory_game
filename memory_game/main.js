@@ -48,7 +48,7 @@ var flipCard = function(cardId) {
   this.getAttribute('data-id');
   this.setAttribute('src', cards[cardId].cardImage);
 
-  if (cardsInPlay.length === 1) {
+  if (cardsInPlay.length === 2) {
     console.log("they match");
   } else {
     alert("Sorry try again!");
